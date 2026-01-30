@@ -1,0 +1,2 @@
+# Requires: unlikely-recursion
+# (Not available on PyPI)
